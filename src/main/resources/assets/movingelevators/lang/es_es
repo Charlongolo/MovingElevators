@@ -1,0 +1,14 @@
+{
+  "block.movingelevators.elevator_block": "Controlador de ascensor",
+  "block.movingelevators.display_block": "Monitor de ascensor",
+  "block.movingelevators.button_block": "Panel remoto de ascensor",
+  "block.movingelevators.button_block.info": "Controlador en $x$, $y$, $z$",
+  "block.movingelevators.button_block.bind": "¡Vinculado al controlador del ascensor!",
+  "block.movingelevators.button_block.place": "¡El bloque debe estar vinculado a un controlador de ascensor!",
+  "block.movingelevators.button_block.dimension": "¡El bloque debe estar en la misma dimensión que el controlador del ascensor!",
+  "gui.movingelevators.title": "Ascensor",
+  "gui.movingelevators.floorname.label": "Nombre del piso:",
+  "movingelevators.platform.size": "Tamaño de la plataforma: $number$ bloques",
+  "movingelevators.platform.speed": "Velocidad de la plataforma: $number$ bloques/t",
+  "movingelevators.floorname": "Piso $number$"
+}
